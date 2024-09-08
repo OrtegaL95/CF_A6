@@ -16,12 +16,14 @@ https://catalog.data.gov/dataset/fy23-federal-real-property-profile-frpp-public-
 https://catalog.data.gov/dataset/fy-2022-federal-real-property-profile
 
 ## Tools
-Excel, Python, Tableau
+Excel, Python, Jupyter Notebook, PowerPoint, Tableau
 
 ## Executing the code 
 Exercises included: Sourcing Open Data; Exploring Relationships; Geographical Visualizations with Python; Supervised Machine Learning: Regression; Unsupervised Machine Learning: Clustering; Sourcing & Analyzing Time Series Data; and, Creating Data Dashboards.
 
-Deliverable included a final Tableau storyboard 
+## Deliverable
+
+Tableau Storyboard 
 
 Link: https://public.tableau.com/shared/SNTHMK47F?:display_count=n&:origin=viz_share_link
 
